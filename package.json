@@ -2,6 +2,7 @@
   "name": "elfsight-test-task",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://superdora777.github.io/elfsight_test_task",
   "scripts": {
     "predeploy": "npm run build",
     "start": "react-app-rewired start",
